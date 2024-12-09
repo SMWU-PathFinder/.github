@@ -61,9 +61,13 @@
 </br>
 
 ##  📊 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗗𝗶𝗮𝗴𝗿𝗮𝗺𝘀
-𝗘𝗥𝗗 𝗗𝗶𝗮𝗴𝗿𝗮𝗺𝘀
+
+### 𝗘𝗥𝗗 𝗗𝗶𝗮𝗴𝗿𝗮𝗺𝘀
 
 ![AR프로젝트- PathFinder (1)](https://github.com/user-attachments/assets/a75beca1-fa66-45c9-ba4f-77a80bcbabf7)
+
+### 𝗙𝗹𝗼𝘄 𝗖𝗵𝗮𝗿𝘁
+<img src="https://github.com/user-attachments/assets/4588fae0-4cc8-46e9-a6f8-08b948b42c9d" alt="Flow Chart" width="40%">
 
 </br>
 
