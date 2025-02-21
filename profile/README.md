@@ -75,7 +75,7 @@
 | 이름        | 역할               | 
 |-------------|--------------------|
 | [강화경](https://github.com/khwak) | AR, Unity, ML            | 
-| [노경희](https://github.com/Yeon-chae) | Backend            | 
+| [노경희](https://github.com/khee2) | Backend            | 
 | 노도경 | 모바일 UI/UX, 3D 디자인        | 
 | [공서희](https://github.com/seohee0422)| AR , Unity, ML       |
 | [허희윤](https://github.com/hiyunD)| Frontend           |
