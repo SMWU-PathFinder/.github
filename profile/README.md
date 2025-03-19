@@ -55,12 +55,17 @@
 | **Backend**    | Spring Boot |
 | **Frontend**| Android |
 | **DB**    | PostgreSQL (RDS) |
-| **Other**   | Unity, ARcore, TensorFlow, OpenCV, rhino3d, blender | 
+| **Model**   | Pandas, NumPy, Scikit-learn | 
+| **AR**      | Unity, ARcore |
 
 
 </br>
 
 ##  📊 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗗𝗶𝗮𝗴𝗿𝗮𝗺𝘀
+
+### 𝗦𝗲𝗿𝘃𝗶𝗰𝗲 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲
+<img src="https://github.com/user-attachments/assets/c659cbdd-8340-40af-abaa-95f5d4e978d7" width = "55%">
+
 
 ### 𝗘𝗥𝗗 𝗗𝗶𝗮𝗴𝗿𝗮𝗺𝘀
 
@@ -81,6 +86,19 @@
 | [허희윤](https://github.com/hiyunD)| Frontend           |
 
 </br>
+
+## 📸 𝗔𝗽𝗽 𝗦𝗰𝗿𝗲𝗲𝗻 𝗙𝗹𝗼𝘄
+
+| **스플래시**       | **온보딩1**       | **온보딩2**       | **온보딩3**       | **길찾기 화면**   |
+|--------------------|-------------------|-------------------|-------------------|--------------------|
+| ![Screenshot_20250205_175039](https://github.com/user-attachments/assets/420e8d5f-ebdd-441f-bc1b-7c5c9adaa954) | ![Screenshot_20250205_175110](https://github.com/user-attachments/assets/58cdc14e-7539-4580-88ed-5d88f2ee2016) | ![Screenshot_20250205_175117](https://github.com/user-attachments/assets/f121c0e8-34a0-40ff-8122-54e5e4ac7ed4) | ![Screenshot_20250205_175124](https://github.com/user-attachments/assets/417d9b0b-0a3a-47c6-82cd-446e3a2a319e) | ![Screenshot_20250205_175247](https://github.com/user-attachments/assets/74f57e5d-3451-451e-b08c-5ed0c137a71b) |
+
+| **장소 선택**    | **출발지 선택**   | **즐겨찾기 추가**   | **즐겨찾기 수정**    | **도착지 선택**      |
+|--------------------|-------------------|-------------------|-------------------|--------------------|
+| ![Screenshot_20250205_175317](https://github.com/user-attachments/assets/f765d193-7317-485a-b1a2-a2dfbdadf4e2) | ![Screenshot_20250205_175325](https://github.com/user-attachments/assets/abe9fbe8-ed0f-4e65-a487-3ead0adb1a27) | ![Screenshot_20250205_175336](https://github.com/user-attachments/assets/23153f1c-ad2f-468a-b3f2-f91ff25932e9) | ![Screenshot_20250205_175554](https://github.com/user-attachments/assets/28fa5765-b4a3-4426-9fa0-cee5013515d7) | ![Screenshot_20250205_175634](https://github.com/user-attachments/assets/d582d81a-5cb3-4415-9975-f589add6a453) |
+
+</br>
+
 
 ## ✨ 𝗖𝗼𝗻𝘃𝗲𝗻𝘁𝗶𝗼𝗻𝘀
 ### 𝗖𝗼𝗺𝗺𝗶𝘁 𝗖𝗼𝗻𝘃𝗲𝗻𝘁𝗶𝗼𝗻𝘀
